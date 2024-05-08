@@ -21,8 +21,9 @@ Quick Sketch is a web application that allows users to create digital sketches u
 To run this project locally, follow these steps:
 
 1. Clone this repository:
-   ```bash
-  git clone https://github.com/Emmanuel301004/quicksketch.git
+   
+  git clone https://github.com/Emmanuel301004/quicksketch.git '''
+
 2. Open the project directory:
 bash
 Copy code
