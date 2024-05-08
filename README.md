@@ -22,4 +22,14 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/quick-sketch.git
+  git clone https://github.com/Emmanuel301004/quicksketch.git
+2. Open the project directory:
+bash
+Copy code
+cd quicksketch
+3.Open index.html in your web browser.
+
+Links
+app to download : Quick Sketch Web App https://drive.google.com/file/d/104j4wooT92bxDh4JRs54pCRwObJaSSAW/view?usp=drive_link
+GitHub Repository: Quick Sketch on GitHub
+Try it Online: Live Demo https://paint-app0.netlify.app
